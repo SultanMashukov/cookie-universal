@@ -21,7 +21,7 @@
   },
   "dependencies": {
     "@types/cookie": "^0.3.3",
-    "cookie-universal": "^2.2.2"
+    "cookie-universal": "https://github.com/SultanMashukov/cookie-universal.git"
   },
   "files": [
     "lib",
